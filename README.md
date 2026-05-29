@@ -16,11 +16,11 @@ A secure real-time chat application with **AES-256-GCM encryption** for all mess
 - Multi-threading
 
 ## Usage
-1. Generate Encryption Key
+1. Generate Encryption Key: 
        python key_manager.py
-2. Start Server
+2. Start Server: 
        python server.py
-3. Connect Clients
+3. Connect Clients: 
        python client.py
 
 ## Commands
